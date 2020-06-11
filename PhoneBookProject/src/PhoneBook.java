@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//PhonebookDriver Class
 public class PhoneBook {
 
 	public static void main(String[] args) {
@@ -9,10 +9,7 @@ public class PhoneBook {
 		
 		PhonebookPerson person = new PhonebookPerson();
 		
-	
-	    
-	
-	    
+
 		
 		System.out.println("**** Welcome to the Phonebook Beta ****");
 		
