@@ -2,7 +2,7 @@
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
-//PhonebookPerson Class
+//PhonebookPerson Classer
 public class PhonebookPerson {
 
 	private String firstName;
